@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+deploy: 
+  type: git
+  repository: https://github.com/solarcorium/solarloftbackup.github.io
+  branch: master
